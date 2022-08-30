@@ -130,4 +130,5 @@ contract RandomWinnerGame is VRFConsumerBase, Ownable {
     fallback() external payable {}
 }
 
-// RandomWinnerGame deployed contract address:
+// RandomWinnerGame deployed contract address: 0x39c6dC64B7ceAc873196Dc60b24aD9776D897027
+// random winner game #1: 0xba1e4b1F7c0D4CCc8a131584ae5A63ee9c89e5d6
